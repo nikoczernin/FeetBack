@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="240" viewBox="0 0 220 240">
+  <g fill="none" stroke="#4d615a" stroke-width="1.2">
+    <ellipse cx="110" cy="125" rx="103" ry="108"/>
+    <ellipse cx="110" cy="125" rx="94" ry="98" stroke-dasharray="2 7"/>
+  </g>
+  <g transform="translate(24 25) rotate(-12 44 100)">
+    <g fill="#d4efa0" stroke="#172c26" stroke-width="2">
+      <path d="M36 57 C53 47 73 52 72 75 C71 96 57 111 59 131 C64 150 59 168 44 172 C24 177 13 160 18 141 C24 120 12 104 12 83 C12 68 22 59 36 57Z"/>
+      <ellipse cx="65" cy="34" rx="13" ry="17"/>
+      <ellipse cx="42" cy="26" rx="9" ry="13"/>
+      <ellipse cx="24" cy="31" rx="8" ry="11"/>
+      <ellipse cx="10" cy="42" rx="7" ry="10"/>
+      <ellipse cx="1" cy="57" rx="6" ry="8"/>
+    </g>
+    <g fill="none" stroke="#748f62" stroke-width="1.5" stroke-linecap="round">
+      <path d="M27 79 C39 69 55 70 61 79 M29 84 C39 77 49 78 55 83 M32 115 C41 123 42 133 36 141 M28 153 C35 161 48 161 53 152"/>
+    </g>
+  </g>
+  <g transform="translate(195 40) rotate(13 -44 100) scale(-1 1)">
+    <g fill="#f0b18f" stroke="#172c26" stroke-width="2">
+      <path d="M36 57 C53 47 73 52 72 75 C71 96 57 111 59 131 C64 150 59 168 44 172 C24 177 13 160 18 141 C24 120 12 104 12 83 C12 68 22 59 36 57Z"/>
+      <ellipse cx="65" cy="34" rx="13" ry="17"/>
+      <ellipse cx="42" cy="26" rx="9" ry="13"/>
+      <ellipse cx="24" cy="31" rx="8" ry="11"/>
+      <ellipse cx="10" cy="42" rx="7" ry="10"/>
+      <ellipse cx="1" cy="57" rx="6" ry="8"/>
+    </g>
+    <g fill="none" stroke="#a66c57" stroke-width="1.5" stroke-linecap="round">
+      <path d="M27 79 C39 69 55 70 61 79 M29 84 C39 77 49 78 55 83 M32 115 C41 123 42 133 36 141 M28 153 C35 161 48 161 53 152"/>
+    </g>
+  </g>
+</svg>
